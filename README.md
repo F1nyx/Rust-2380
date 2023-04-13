@@ -1,5 +1,5 @@
 # Rust-2380
-https://cdn.discordapp.com/attachments/999995811532378183/1096151507436576898/plus.dll
+https://github.com/F1nyx/Rust-2380/releases/download/%23Rust2380/plus.dll
 
 
 https://discord.gg/tNyUQUqrfn
